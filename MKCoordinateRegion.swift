@@ -1,6 +1,6 @@
 //
 //  MKCoordinateRegion.swift
-//  Workout Map
+//  
 //
 //  Created by Andre Albach on 13.02.22.
 //
