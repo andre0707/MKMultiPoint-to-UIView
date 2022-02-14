@@ -21,3 +21,10 @@ After clicking the wrench button, the view with the path will be created
 Moving the underlaying map a little around to match the postion:
 
 <img src="images/3.png" width="400" alt="Moved map">
+
+
+
+
+## Projects using MKMultiPoint to UIView
+
+I used this MKMultiPoint to UIView converter in my [Workout Map](https://github.com/andre0707/WorkoutMap) app.
